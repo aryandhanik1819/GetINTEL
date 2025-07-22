@@ -55,9 +55,47 @@ cd GetINTEL
 
 # Install dependencies
 pip install -r requirements.txt
-#Run the app
+
+# Run the app
 python app.py
-#Visit http://127.0.0.1:5000 in your browser.
+```
+Visit http://127.0.0.1:5000 in your browser.
+
+---
+
+
+🔑 API Configuration
+Hunter.io Email Lookup
+
+Register for an API key from Hunter.io
+
+Open osint_modules/email_hunter.py
+
+Replace 'your_api_key_here' with your actual key
+
+---
+
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for more information.
+
+---
+
+👤 Author
+Aryan Dhanik
+📧 aryandhanik12@gmail.com
+🌐 https://www.linkedin.com/in/aryan-dhanik/
+💻 Github
+
+---
+
+🙌 Contributions
+Pull requests, suggestions, and bug reports are welcome!
+If you'd like to contribute, feel free to fork the repo and open a PR.
+
+
+
+
 
 
 
